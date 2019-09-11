@@ -1,7 +1,7 @@
 # WeatherWebCrawling
 
 This API is used for fetching weather conditions  name as a string to the respective locality's weather data. 
-Import "code.start(place1,dateinp="",type="<Any one from daily/monthly/5days/10days/datweise in string format>") from package "web_crawling".
+Import "code.start(place1,dateinp="",type="<Any one from daily/monthly/5days/10days/datewise in string format>") from package "web_crawling".
  You can pass ANY ONE OF the keyword arguments - Date in "YYYY-MM-DD" format/ forecast type required ('daily' for today {Default Selection}, 'monthly' for monthly,'5days' for 5-day , '10days' for 10-day,'datewise' for datewise). We are relying on APIs used by weather.com internally for extracting the respective data.
  
  
